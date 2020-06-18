@@ -6,7 +6,7 @@ Browser extension that improves code navigation and pull request reviewing on Gi
 
 ## Features
 
-See the complete set of [features](https://www.octotree.io/features) on our website.
+See the complete set of [features](https://www.octotree.io) on our website.
 
 ## Credits
 
